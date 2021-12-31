@@ -1,0 +1,3 @@
+import lotsoflove as love 
+my_love_for_you = love.devotion()
+print(my_love_for_you)
